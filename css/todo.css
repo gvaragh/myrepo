@@ -16,3 +16,14 @@
 .spacer{
 	padding-top:10px;
 }
+
+.footer {
+	font-size : 8px;
+	padding-top : 10px;
+}
+
+div#container{
+	background-color: blue;
+	font-family : Arial;
+	color : white;
+}
