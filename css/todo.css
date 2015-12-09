@@ -1,0 +1,18 @@
+.done-true{
+	text-decoration : line-through;
+	text:color : grey;
+}
+
+.unstyled{
+	list-style:none;
+}
+
+.btn{
+	width : 30px;
+	height : 20px;
+	text-decoration:none; 
+}
+
+.spacer{
+	padding-top:10px;
+}
